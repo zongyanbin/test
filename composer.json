@@ -1,0 +1,16 @@
+{
+    "name": "zongyanbin/test",
+    "description": "demo",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zongyanbin",
+            "email": "315635152@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    }
+}
